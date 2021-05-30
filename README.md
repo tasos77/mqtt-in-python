@@ -1,1 +1,1 @@
-# Esp8266NodePubViaMQTTPythonSub
+# Using MQTT in Python and Arduino
