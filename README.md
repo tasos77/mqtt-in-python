@@ -13,7 +13,7 @@ This project implement a communication method publish/subscribe using MQTT Proto
 
 # Project setup
 
- 1. Download the scripts from github
+ 1. Download scripts from github
  2. Connect the ESP8266 to PC
  3. Install the .ino script to ESP8266 through Arduino IDE
  4. Run the python script 
